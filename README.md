@@ -7,7 +7,7 @@ This project uses machine learning to predict real estate prices in Bangalore. T
 - Data Collection: Gathered and cleaned real estate data for Bangalore.
 - Data Processing: Performed feature engineering and outlier removal.
 - Model Building: Tested different models (Linear Regression, Decision Trees, Random Forest).
-- Flask API: Deployed the model as a REST API for predictions.
+- Flask API: USED the model as a REST API for predictions.
 - Web UI: Built a simple front-end to interact with the model.
 
 ## Technologies Used
